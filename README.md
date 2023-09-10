@@ -1,12 +1,15 @@
 # OdooExp
 
 OdooExploit parameter :
+
  server: Ip Address or hostname
+ 
  port: port number 8069 or other
  db: database name
  username: username of database
  password: passwrod of database
  Command:  
+ 
      remember: remember connection parameters by name and load by config['name']
      dump: dump database
      sqli: execute sql script
